@@ -31,7 +31,7 @@ class _LandingState extends State<Landing> {
               ),
             ),
             Text(
-              'WOOBLE',
+              'ShareThought',
               style: TextStyle(
                 fontSize: 22.0,
                 fontWeight: FontWeight.w900,

@@ -43,7 +43,7 @@ class _CreatePostState extends State<CreatePost> {
                 Navigator.pop(context);
               },
             ),
-            title: Text('WOOBLE'.toUpperCase()),
+            title: Text('ShareThought'.toUpperCase()),
             centerTitle: true,
             actions: [
               GestureDetector(
