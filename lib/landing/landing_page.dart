@@ -25,17 +25,18 @@ class _LandingState extends State<Landing> {
                 child: Image.asset(
                   'assets/images/new1.png',
                   height: 200.0,
-                  width: 200.0,
-                  fit: BoxFit.cover,
+                  width: 500.0,
+                  fit: BoxFit.fill,
                 ),
               ),
             ),
             Text(
-              'ShareThought',
+              'SHARE THOUGHT',
               style: TextStyle(
                 fontSize: 22.0,
                 fontWeight: FontWeight.w900,
                 fontFamily: 'Ubuntu-Regular',
+                color: Colors.red,
               ),
             )
           ],
